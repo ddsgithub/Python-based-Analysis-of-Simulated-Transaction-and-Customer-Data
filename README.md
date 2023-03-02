@@ -5,12 +5,12 @@ Businesses that rely on transaction data, such as e-commerce or financial servic
 
 The following Python libraries are required to run this project:
 
-pandas is used for data manipulation and analysis, providing data structures for efficient data handling and processing.
-numpy is used for numerical computation and mathematical operations on arrays and matrices.
-matplotlib is used for creating static, interactive, and animated visualizations.
-seaborn is used for creating enhanced visualizations.
-plotly.express is used for creating interactive visualizations, such as scatter plots, line charts, and bar charts.
-datetime and timedelta are built-in Python modules that provide date and time handling functionality, used for data manipulation and analysis in the project.
+- pandas is used for data manipulation and analysis, providing data structures for efficient data handling and processing.
+- numpy is used for numerical computation and mathematical operations on arrays and matrices.
+- matplotlib is used for creating static, interactive, and animated visualizations.
+- seaborn is used for creating enhanced visualizations.
+- plotly.express is used for creating interactive visualizations, such as scatter plots, line charts, and bar charts.
+- datetime and timedelta are built-in Python modules that provide date and time handling functionality, used for data manipulation and analysis in the project.
 
 # Getting Started
 

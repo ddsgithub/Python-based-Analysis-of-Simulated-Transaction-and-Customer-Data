@@ -16,11 +16,11 @@ datetime and timedelta are built-in Python modules that provide date and time ha
 
 To get started with this project, follow these steps:
 
-Install the required Python libraries listed above using pip.
-Clone the repository to your local machine.
-Open the project in your preferred Python IDE.
-Run the project using your IDE's run command.
-Contributing
+1. Install the required Python libraries listed above using pip.
+2. Clone the repository to your local machine.
+3. Open the project in your preferred Python IDE.
+4. Run the project using your IDE's run command.
+5. Contributing
 
 If you would like to contribute to this project, please submit a pull request with your changes.
 

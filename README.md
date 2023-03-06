@@ -20,7 +20,8 @@ To get started with this project, follow these steps:
 2. Clone the repository to your local machine.
 3. Open the project in your preferred Python IDE.
 4. Run the project using your IDE's run command.
-5. Contributing
+
+# Contributing
 
 If you would like to contribute to this project, please submit a pull request with your changes.
 
